@@ -101,27 +101,6 @@ This dashboard helps answer questions such as:
 
 ---
 
-# 📂 Repository Structure
-
-```
-📁 images
-│   ├── dashboard-overview.png
-│   ├── dashboard-demo.gif
-│
-├── Sales Dataset.xlsx
-└── README.md
-```
-
----
-
-# 🌐 Live Dashboard
-
-Explore the interactive dashboard here:
-
-**https://datastudio.google.com/s/gFWMhBxvKX0**
-
----
-
 # 📈 Business Value
 
 This dashboard centralizes key commercial metrics into a single interactive report, allowing users to monitor sales performance, identify top-performing markets and customers, and analyze revenue trends without manually reviewing raw sales data.
@@ -149,17 +128,3 @@ This project uses the same sales dataset as my **Power BI Sales Dashboard**, dem
 **Daniel Betancourt**
 
 If you found this project interesting, feel free to connect with me on LinkedIn or explore my other data analytics projects on GitHub.
-
-
-
----
-
-## Live Dashboard
-
-View the interactive dashboard here:
-
-https://datastudio.google.com/s/gFWMhBxvKX0
-
-
-
----
